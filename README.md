@@ -1,8 +1,8 @@
-# Weather App - React + Vite
+# Weather App - React + Vite 
 
 This project is a Weather App built using React and Vite. It provides users with current weather information and forecasts based on city search or current location.
 
-## Key Features
+## Key Features 🚀
 
 - Search weather by city name.
 - Display current weather details including temperature, humidity, pressure, wind speed, visibility, sunrise, and sunset.
@@ -13,13 +13,13 @@ This project is a Weather App built using React and Vite. It provides users with
 - Responsive and user-friendly UI styled with Tailwind CSS.
 - Utilizes React hooks for state management and side effects.
 
-## Technologies Used
+## Technologies Used ⚙️
 
 - React + Vite
 - OpenWeather API + WeatherBit API
 - Tailwind CSS
 
-## Setup and Usage
+## Setup and Usage 💻
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
